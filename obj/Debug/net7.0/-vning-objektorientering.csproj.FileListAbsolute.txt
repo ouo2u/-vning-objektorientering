@@ -12,3 +12,17 @@ C:\Users\Admin\Documents\GitHub\-vning-objektorientering\obj\Debug\net7.0\refint
 C:\Users\Admin\Documents\GitHub\-vning-objektorientering\obj\Debug\net7.0\-vning-objektorientering.pdb
 C:\Users\Admin\Documents\GitHub\-vning-objektorientering\obj\Debug\net7.0\-vning-objektorientering.genruntimeconfig.cache
 C:\Users\Admin\Documents\GitHub\-vning-objektorientering\obj\Debug\net7.0\ref\-vning-objektorientering.dll
+C:\Users\Admin\Documents\-vning-objektorientering\bin\Debug\net7.0\-vning-objektorientering.exe
+C:\Users\Admin\Documents\-vning-objektorientering\bin\Debug\net7.0\-vning-objektorientering.deps.json
+C:\Users\Admin\Documents\-vning-objektorientering\bin\Debug\net7.0\-vning-objektorientering.runtimeconfig.json
+C:\Users\Admin\Documents\-vning-objektorientering\bin\Debug\net7.0\-vning-objektorientering.dll
+C:\Users\Admin\Documents\-vning-objektorientering\bin\Debug\net7.0\-vning-objektorientering.pdb
+C:\Users\Admin\Documents\-vning-objektorientering\obj\Debug\net7.0\-vning-objektorientering.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\-vning-objektorientering\obj\Debug\net7.0\-vning-objektorientering.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\-vning-objektorientering\obj\Debug\net7.0\-vning-objektorientering.AssemblyInfo.cs
+C:\Users\Admin\Documents\-vning-objektorientering\obj\Debug\net7.0\-vning-objektorientering.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\-vning-objektorientering\obj\Debug\net7.0\-vning-objektorientering.dll
+C:\Users\Admin\Documents\-vning-objektorientering\obj\Debug\net7.0\refint\-vning-objektorientering.dll
+C:\Users\Admin\Documents\-vning-objektorientering\obj\Debug\net7.0\-vning-objektorientering.pdb
+C:\Users\Admin\Documents\-vning-objektorientering\obj\Debug\net7.0\-vning-objektorientering.genruntimeconfig.cache
+C:\Users\Admin\Documents\-vning-objektorientering\obj\Debug\net7.0\ref\-vning-objektorientering.dll

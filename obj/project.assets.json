@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\-vning-objektorientering\\-vning-objektorientering.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Documents\\-vning-objektorientering\\-vning-objektorientering.csproj",
       "projectName": "-vning-objektorientering",
-      "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\-vning-objektorientering\\-vning-objektorientering.csproj",
+      "projectPath": "C:\\Users\\Admin\\Documents\\-vning-objektorientering\\-vning-objektorientering.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\-vning-objektorientering\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Documents\\-vning-objektorientering\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
